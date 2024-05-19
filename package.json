@@ -1,6 +1,6 @@
 {
   "name": "zefi_todo_list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Todo List with TypeScript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
