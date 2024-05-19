@@ -4,7 +4,9 @@
   "description": "Todo List with TypeScript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
-  "bin": "index.js",
+  "bin": {
+    "zefi_todo_list": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
